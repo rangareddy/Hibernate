@@ -1,5 +1,5 @@
-Hibernate4 examples by using Gradle.
-
+Hibernate4 examples by using Gradle
+-----------------------------------------
 
 This project demonstrate how to develop and run the Hibernate application by using gradle.
 
