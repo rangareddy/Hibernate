@@ -5,15 +5,10 @@ This project demonstrate how to develop and run the Hibernate application by usi
 
 System configuration:
 ---------------------
-
-Java: JDK1.6 or Above
-
-Gradle version: 1.x
-
-Database: Oracle11g
-
-Maven version: 3.x
-
+Java            : JDK1.6 or Above
+Gradle version  : 1.x
+Database        : Oracle11g
+Maven version   : 3.x
 
 Executing this Project:
 --------------------------
