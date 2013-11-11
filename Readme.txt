@@ -3,11 +3,20 @@ Hibernate4 examples by using Gradle
 
 This project demonstrate how to develop and run the Hibernate application by using gradle.
 
-Requirements:
+System configuration:
+---------------------
 
-JDK1.6 or Above, Gradle1.x or more, Maven3.x, Oracle11g
+Java: JDK1.6 or Above
 
-Executing the Project.
+Gradle version: 1.x
+
+Database: Oracle11g
+
+Maven version: 3.x
+
+
+Executing this Project:
+--------------------------
 
 Step1: Download the Hibernate4WithGradleExample zip file or use the git command to download 
 (git clone https://github.com/rangareddy/Hibernate4WithGradleExample.git)
@@ -29,8 +38,8 @@ See the same program how to develop step by step in my blog
 (http://myjourneyonjava.blogspot.in/2013/11/hibernate4x-application-example-by.html)
 
 
-License and Author
----------------------
+Author
+-------------------------
 
 Author:: Ranga Reddy (rangareddy.avula@gmail.com)
-Copyright:: 2013-2014
+Blog: myjourneyonjava.blogspot.com
